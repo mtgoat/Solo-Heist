@@ -1,0 +1,16 @@
+C:\Users\johnn\workspace\backend\bangazon\csharp\soloHeist\bin\Debug\net5.0\soloHeist.exe
+C:\Users\johnn\workspace\backend\bangazon\csharp\soloHeist\bin\Debug\net5.0\soloHeist.deps.json
+C:\Users\johnn\workspace\backend\bangazon\csharp\soloHeist\bin\Debug\net5.0\soloHeist.runtimeconfig.json
+C:\Users\johnn\workspace\backend\bangazon\csharp\soloHeist\bin\Debug\net5.0\soloHeist.runtimeconfig.dev.json
+C:\Users\johnn\workspace\backend\bangazon\csharp\soloHeist\bin\Debug\net5.0\soloHeist.dll
+C:\Users\johnn\workspace\backend\bangazon\csharp\soloHeist\bin\Debug\net5.0\ref\soloHeist.dll
+C:\Users\johnn\workspace\backend\bangazon\csharp\soloHeist\bin\Debug\net5.0\soloHeist.pdb
+C:\Users\johnn\workspace\backend\bangazon\csharp\soloHeist\obj\Debug\net5.0\soloHeist.csproj.AssemblyReference.cache
+C:\Users\johnn\workspace\backend\bangazon\csharp\soloHeist\obj\Debug\net5.0\soloHeist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnn\workspace\backend\bangazon\csharp\soloHeist\obj\Debug\net5.0\soloHeist.AssemblyInfoInputs.cache
+C:\Users\johnn\workspace\backend\bangazon\csharp\soloHeist\obj\Debug\net5.0\soloHeist.AssemblyInfo.cs
+C:\Users\johnn\workspace\backend\bangazon\csharp\soloHeist\obj\Debug\net5.0\soloHeist.csproj.CoreCompileInputs.cache
+C:\Users\johnn\workspace\backend\bangazon\csharp\soloHeist\obj\Debug\net5.0\soloHeist.dll
+C:\Users\johnn\workspace\backend\bangazon\csharp\soloHeist\obj\Debug\net5.0\ref\soloHeist.dll
+C:\Users\johnn\workspace\backend\bangazon\csharp\soloHeist\obj\Debug\net5.0\soloHeist.pdb
+C:\Users\johnn\workspace\backend\bangazon\csharp\soloHeist\obj\Debug\net5.0\soloHeist.genruntimeconfig.cache
